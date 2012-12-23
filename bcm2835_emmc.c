@@ -6,7 +6,7 @@
 #include "sysbus.h"
 #include "qemu-common.h"
 #include "qdev.h"
-#include "blockdev.h"
+#include "sysemu/blockdev.h"
 #include "sd.h"
 
 /*

@@ -31,11 +31,11 @@
 #include "sysbus.h"
 #include "qemu-common.h"
 #include "qdev.h"
-#include "console.h"
+#include "ui/console.h"
 #include "framebuffer.h"
-#include "pixel_ops.h"
+#include "ui/pixel_ops.h"
 
-#include "cpu-common.h"
+#include "exec/cpu-common.h"
 
 #include "bcm2835_common.h"
 
