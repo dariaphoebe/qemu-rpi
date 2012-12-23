@@ -1,6 +1,14 @@
 qemu-rpi (c) 2012 Gregory Estrade, licensed under the GNU GPLv2 and later.
 
 ================================================================================
+*** Update 12/23/2012
+================================================================================
+Since the QEMU include structure has changed a few days ago, please use the
+"rpi" branch I created instead.
+
+https://github.com/Torlus/qemu/tree/rpi
+
+================================================================================
 About
 ================================================================================
 
